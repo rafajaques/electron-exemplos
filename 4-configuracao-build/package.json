@@ -1,0 +1,9 @@
+{
+  "build": {
+    "appId": "id.do.seu.app",
+    "app-category-type": "categoria.do.seu.app",
+    "win": {
+      "iconUrl": "link http(s) para o ícone"
+    }
+  }
+}
