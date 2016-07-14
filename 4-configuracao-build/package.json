@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "postinstall": "install-app-deps",
+    "pack": "build --dir",
+    "dist": "build"
+  },
   "build": {
     "appId": "id.do.seu.app",
     "app-category-type": "categoria.do.seu.app",
