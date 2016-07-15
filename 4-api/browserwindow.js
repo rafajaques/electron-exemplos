@@ -10,3 +10,5 @@ win.on('closed', () => {
 });
 
 win.loadURL('http://rafajaques.com.br');
+
+// http://electron.atom.io/docs/api/browser-window/
